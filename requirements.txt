@@ -1,0 +1,8 @@
+PySide6==6.8.2.1
+Pillow==9.5.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+simple-lama-inpainting==0.1.2
+torch==2.5.1
+torchvision==0.20.1
+truststore==0.10.4

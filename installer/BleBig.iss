@@ -1,5 +1,5 @@
 #define MyAppName "BleBig"
-#define MyAppVersion "0.3.0"
+#define MyAppVersion "0.3.1"
 #define MyAppPublisher "Thien Ha"
 #define MyAppExeName "BleBig.exe"
 
